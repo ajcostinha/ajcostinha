@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ajcostinha.
+- 👀 I’m interested in Data Science, Physics and Space!
+- 🌱 I’m currently learning PowerBI.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I'm a very big Ferrari fan.
